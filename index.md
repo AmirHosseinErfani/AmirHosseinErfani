@@ -1,30 +1,27 @@
 
-### Anahita Taheri
+### AmirHossein Erfani
 
 
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
-+ I am a trader and IT engineering student
++ name: AmirHossein
++ last name : Erfani
++ Date of birth : 1999/September/9
++ I am a computer engineering student
 + location : Tehran , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
 + translating
 
 
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
-+ Bachelor of science : IT Engineering
-_ payam Noor University of North 
++ Diploma : Doctor Mahmood Afshar high school 
 
 ### language
 
@@ -35,10 +32,9 @@ _ payam Noor University of North
 ### Favorites
 
 ---
-+ Trade
-+ Studing historical books
-+ travel 
-+ playing volleyball
++ English Learning
++ Working with AfterEffects & PhotoShop
++ Listening to Music
 
 ### working Experience
 

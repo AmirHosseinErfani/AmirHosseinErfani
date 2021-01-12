@@ -33,7 +33,7 @@
 ### Favorites
 
 ---
-+ English Learning
++ Studying & Learning English 
 + Working with AfterEffects & PhotoShop
 + Listening to Music
 

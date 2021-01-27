@@ -5,7 +5,7 @@
 ### Personal informations
 
 ---
-+ name: AmirH ossein
++ name: Amir Hossein
 + last name : Erfani
 + Date of birth : 1999/September/9
 + I am a computer engineering student
